@@ -1,0 +1,6 @@
+[package]
+name = "corp_db"
+version = "0.1.0"
+authors = ["george <jqnk124@gmail.com>"]
+
+[dependencies]
