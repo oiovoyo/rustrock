@@ -1,3 +1,5 @@
+pub mod user_manage;
+
 #[cfg(test)]
 mod tests {
     #[test]
